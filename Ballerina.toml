@@ -1,5 +1,7 @@
 [package]
-distribution = "2201.0.0-20220126-220000-041afc92"
+org = "krvperera"
+name = "seedrclient"
+version = "0.1.0"
 
 [build-options]
 observabilityIncluded = true

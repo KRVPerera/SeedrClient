@@ -267,15 +267,15 @@ modules = [
 ]
 
 [[package]]
-org = "rukshanp"
-name = "SeedrClient"
+org = "krvperera"
+name = "seedrclient"
 version = "0.1.0"
 dependencies = [
 	{org = "ballerina", name = "http"},
 	{org = "ballerinai", name = "observe"}
 ]
 modules = [
-	{org = "rukshanp", packageName = "SeedrClient", moduleName = "SeedrClient"}
+	{org = "krvperera", packageName = "seedrclient", moduleName = "seedrclient"}
 ]
 
 
